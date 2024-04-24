@@ -3,6 +3,7 @@
 We personally love to travel so much and who doesn't right? But we often find it hard to find the right info about the hot places of a destination, and also find it hard to come up with planned itinery in a right budget. In this whole mess of figuring out, we might miss some places which we regret later. The solution to this is, Tour buddy.
 
 Tour Buddy is a travel app that allows users to explore various cities around the world, and access information about famous destinations, restaurants, and activities. Users can click on buttons for now to view details, pictures. We are yet to explore on the subjects like booking tours, and plan their trips efficiently, right in their budgets.\
+Googlr drive : https://drive.google.com/drive/folders/150fWXzQH5FBSydrwQGlE7TKx8pcdkzBv
 \
 ## Table of Contents\
 \
